@@ -1,5 +1,10 @@
 #Droidrone（ドロイドローン（仮）） とは 。
 ラジコン電波の代わりに、携帯電話ネットワーク（LTE）を利用し、超遠方まで安価にFPVでRC模型を操縦できるシステムのことです。
+#動作の様子 
+2016.05.05 撮影
+[![](http://img.youtube.com/vi/YdYnNappXGU/0.jpg)](https://youtu.be/YdYnNappXGU?t=55s)
+
+>https://youtu.be/YdYnNappXGU?t=55s
 
 **_スマートフォンを載せたタミヤのバギー型 RC模型とDridroneシステムの概念図_**
 ![image](https://docs.google.com/drawings/d/1daXMF05XgUGCy8scaGVKXU24igiqGjfQ_ZVNeVRyCrE/pub?w=800)
