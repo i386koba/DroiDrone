@@ -27,13 +27,16 @@ https://github.com/i386koba/Droidorone-web
 ###ハードウェア（Arduino) の回路図、コード
 https://github.com/i386koba/Droidrone-ino
 
-###Android StudioとBitbucketを使ったGitHub flowの流れ
-
-http://qiita.com/araiyusuke/items/1d141756f53cf3634c9a
-
 #動作の様子 
 2016.05.05 撮影
 [![](http://img.youtube.com/vi/YdYnNappXGU/0.jpg)](https://youtu.be/YdYnNappXGU?t=55s)
 
 >https://youtu.be/YdYnNappXGU?t=55s
 
+###qiita
+
+http://qiita.com/i386koba/items/b781aba4f5e0184c693d
+
+###Android StudioとBitbucketを使ったGitHub flowの流れ
+
+http://qiita.com/araiyusuke/items/1d141756f53cf3634c9a
