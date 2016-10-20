@@ -11,7 +11,7 @@ RC模型にのせたスマートフォンのカメラ映像とスマートフォ
 * 最近ドローンの世間の印象が悪いので名称考え中で（仮）としました。また、よくあるスマフォのWiFiで模型をコントロール方法と勘違いされるかもなので、Cellular network Pilot　とかがいいかもです。
 
 ##テロなんかに使われると困るので、
-Androidコードは　https://bitbucket.org/i386koba/droidrone　
+Androidコードは　https://bitbucket.org/i386koba/droidrone
 に移し非公開にしました。
 
 今後、操作しているドローンの航路とカメラ画像を誰もがWeb上のMAPで見れるようにし、不正な利用を抑制する仕組みを構築します。
