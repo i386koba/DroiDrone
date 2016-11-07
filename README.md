@@ -22,6 +22,9 @@ Androidコードは　https://bitbucket.org/i386koba/droidrone
 
 連絡先　：　http://www.cirlution.com/
 
+##ToDo;
+* 起動時のみGoogleアカウント問い合わせ、Web再接続の時は以前のアカウントで自動ログイン。（接続自動復帰機能）
+
 ###Webアプリのコード
 https://github.com/i386koba/Droidorone-web
 
